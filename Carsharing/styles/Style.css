@@ -1,0 +1,55 @@
+
+  th
+  {
+    background-color:yellow;
+    color:black;
+  }
+
+tr
+{
+  background-color:rgb(0, 128, 75);
+  color:white;
+}
+
+
+h3 {
+    color: rgb(229, 255, 0);
+ 
+}
+h1 {
+  color: rgb(0, 225, 255);
+
+}
+h2 {
+  color: rgb(255, 174, 0);
+
+}
+
+body {
+  position: relative;
+  background-color:rgb(0, 128, 122);
+  font-family: sans-serif;
+  font-size: 20px;
+  margin:100px auto;
+}
+
+
+p {
+  font-family: yellow;
+  font-size: 20px;
+}
+
+a {
+  color: rgb(255, 72, 0);
+  font-size:  100spx;
+}
+
+
+.rechts {
+  position: relative;
+
+  color: rgb(0, 89, 255);
+  padding: 10px;
+  top: 5;
+  right: 1;
+}

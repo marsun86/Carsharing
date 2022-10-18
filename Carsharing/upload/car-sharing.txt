@@ -1,0 +1,31 @@
+---STATIONS---
+Hauptbahnhof;Bayrische Straße 1, 01069 Dresden;51.039792;13.730837;20;
+Finanzamt;Rabener Str. 2, 01069 Dresden;51.035436;13.740108;3;
+Nürnberger Ei;Liebigstraße 19,01187 Dresden;51.033131;13.722249;5;
+SLUB;;51.028577;13.740722;2;
+Großer Garten;Tiergartenstraße 38a, 01219 Dresden;51.033322;13.761249;5;
+Beutlerpark;Reichenbachstraße, 01217 Dresden;51.032055;13.742768;1;
+---VEHCLES---
+Smart ForFour;0;DD-IT 1;2;2;SLUB;
+Fiat 500;0;DD-IT 2;2;4;Hauptbahnhof;
+Ford Focus Turnier;2;DD-IT 3;5;5;Hauptbahnhof;
+Ford Ka;0;DD-IT 4;0;2;Großer Garten;
+Ford Ka;0;DD-IT 5;0;2;Hauptbahnhof;
+Ford Ka;0;4;DD-IT 6;0;2;Hauptbahnhof;
+Peugeot Boxer;4;DD-IT 7;3;3;Nürnberger Ei;
+Ford Focus Turnier;2;DD-IT 8;5;5;Nürnberger Ei;
+Dacia Logan;2;DD-IT 9;5;5;;
+Fiat Ducato;4;DD-IT 10;3;3;Hauptbahnhof;
+VW Passat;2;DD-IT 11;5;5;Hauptbahnhof;
+Ford Focus Turnier;2;DD-IT 12;5;5;Hauptbahnhof;
+Fiat Ducato;4;DD-IT 13;3;3;SLUB;
+VW Passat;2;4;DD-IT 14;5;5;Großer Garten;
+Ford Ka;0;DD-IT 15;0;2;Großer Garten;
+Fiat Ducato;4;DD-IT 16;3;3;Großer Garten;
+VW Passat;2;4;DD-IT 17;5;5;Beutlerpark;
+VW Lupo;0;DD-IT 18;2;4;;
+VW Golf;1;DD-IT 19;5;5;Finanzamt;
+Skoda Oktavia;2;DD-IT 100;5;5;;
+Mercedes V;3;DD-IT 201;4;8;Finanzamt;
+Mercedes V;3;DD-IT 9999;5;8;Finanzamt;
+Fiat Ducato;4;DD-IT 20;3;3;;
